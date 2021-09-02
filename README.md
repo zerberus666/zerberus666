@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zerberus666
+- 👋 Hi, I’m Far
 - 👀 I’m interested in electronics and microcontrollers
 - 🌱 I’m currently learning TI microcontrollers with Zigbee onboard
 - 📫 Write me on Telegramm @mynameisdrwhat
